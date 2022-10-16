@@ -13,3 +13,7 @@ Python, Pandas, SQL, SQLAlchemy, PostgreSQL, dash, Tableau, продуктовы
 Для визуализации собранных данных был написан скрипт
 дашборда с несколькими фильтрами. По
 результатам была подготовлена презентация с полученными графиками.
+
+## Ссылка на дашборд
+
+https://public.tableau.com/views/_2_16648059922480/Dashboard1?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link
